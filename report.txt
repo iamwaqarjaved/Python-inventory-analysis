@@ -1,0 +1,313 @@
+
+════════════════════════════════════════════════════════════════════════
+  INVENTORY INTELLIGENCE REPORT
+  Generated : 2026-05-19  │  Products analysed: 196
+════════════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════════════
+  Q1  │  TOP-10 PRODUCTS BELOW REORDER POINT
+════════════════════════════════════════════════════════════════════════
+  These items need restocking before they run out of stock.
+
+SKU      Product Name                     Category        In Stock   Reorder At  Shortfall
+  ····································································
+  OF002    A4 Copy Paper 500 sheets         Office                18           50        –32
+  EL010    Smart Power Strip                Electronics            5           20        –15
+  CL012    Latex Gloves M 100pk             Cleaning              15           30        –15
+  OF017    Desk Calendar 2025               Office                 7           15         –8
+  EL004    4K Webcam                        Electronics            8           15         –7
+  EL002    Wireless Charging Pad            Electronics           14           20         –6
+  SH002    Cardboard Boxes 30x20x15 20pk    Shipping              10           15         –5
+  EL014    Mini Projector HD                Electronics            4            8         –4
+  EL015    Smart Home Hub                   Electronics           17           20         –3
+  CL008    Paper Towels 12 Rolls            Cleaning              28           30         –2
+────────────────────────────────────────────────────────────────────────
+  ACTION REQUIRED: 12 products are below reorder point (6.1% of catalogue). Showing the 10 most urgent.
+────────────────────────────────────────────────────────────────────────
+
+════════════════════════════════════════════════════════════════════════
+  Q2  │  HIGHEST-MARGIN PRODUCT IN EACH CATEGORY
+════════════════════════════════════════════════════════════════════════
+  Margin = (price − cost) / price × 100. These are your most profitable lines.
+
+  Category       Product                             Price     Cost  Margin %
+  ····································································
+  Art            Graphite Pencil Set 12              $9.99    $2.80     72.0%
+  Breakroom      Paper Plates 100pk                  $7.99    $2.20     72.5%
+  Cleaning       Glass Cleaner 750ml                 $7.99    $2.30     71.2%
+  Electronics    Screen Cleaning Kit                 $9.99    $1.80     82.0%
+  Furniture      Anti-Fatigue Mat 90x60             $44.99   $15.50     65.5%
+  Health         Noise Cancelling Earplugs 50pk     $12.99    $3.50     73.1%
+  Misc           Whiteboard Cleaner 500ml            $8.99    $2.50     72.2%
+  Networking     Keystone Jack RJ45 10pk            $12.99    $3.50     73.1%
+  Office         Binder Clips Assorted 50pk          $6.49    $1.10     83.1%
+  Printing       Report Covers Clear 50pk            $9.99    $2.80     72.0%
+  Safety         Hi-Vis Vest XL                     $14.99    $4.20     72.0%
+  Shipping       Fragile Stickers Roll 500           $8.99    $2.00     77.8%
+  Storage        Cable Ties 200pk Assorted           $9.99    $2.20     78.0%
+  Tech Acc       Webcam Cover Privacy 3pk            $6.99    $1.20     82.8%
+  Tools          Wall Anchors + Screws 100pk         $8.99    $2.20     75.5%
+────────────────────────────────────────────────────────────────────────
+  Average best-in-category margin: 74.8%.  15 categories analysed.
+────────────────────────────────────────────────────────────────────────
+
+════════════════════════════════════════════════════════════════════════
+  Q3  │  PRODUCTS WITH NO SALE IN THE LAST 30 DAYS
+════════════════════════════════════════════════════════════════════════
+  Reference date: 2026-05-19  │  Cutoff: 2026-04-19
+
+  SKU      Product Name                     Category          Last Sold  Days Idle
+  ····································································
+  OF017    Desk Calendar 2025               Office           2025-01-10        494
+  FU009    Reception Desk L-Shape           Furniture        2025-01-20        484
+  NW009    Network Cabinet 6U Wall          Networking       2025-01-30        474
+  FU012    Locker Cabinet 4-Door            Furniture        2025-02-10        463
+  EL014    Mini Projector HD                Electronics      2025-02-14        459
+  PR010    Scanner A4 Flatbed               Printing         2025-02-20        453
+  NW007    Patch Panel 24-Port              Networking       2025-02-25        448
+  FU005    Conference Table 8-Person        Furniture        2025-02-28        445
+  FU015    Drafting Table Adjustable        Furniture        2025-03-05        440
+  SA010    Emergency Exit Sign LED          Safety           2025-03-05        440
+  SA002    Fire Extinguisher CO2 2kg        Safety           2025-03-10        435
+  FU004    Filing Cabinet 3-Drawer          Furniture        2025-03-15        430
+  OF011    Whiteboard 90x60cm               Office           2025-03-18        427
+  NW010    PoE Injector 30W                 Networking       2025-03-18        427
+  BR007    Kettle 1.7L Stainless            Breakroom        2025-03-20        425
+  EL004    4K Webcam                        Electronics      2025-03-22        423
+  SA009    Cable Lock 1.8m                  Safety           2025-03-22        423
+  MI006    Tally Counter 4-Digit            Misc             2025-03-22        423
+  OF019    Business Card Holder             Office           2025-03-25        420
+  SH007    Shipping Scale 30kg              Shipping         2025-03-25        420
+  FU011    Coffee Table Glass Top           Furniture        2025-03-28        417
+  PR007    Laminator A4                     Printing         2025-03-28        417
+  TH008    Stud Finder Electronic           Tools            2025-03-28        417
+  OF005    Desk Organiser Bamboo            Office           2025-03-30        415
+  ST010    Heavy-Duty Shelving 5-Tier       Storage          2025-03-30        415
+  EL019    Wireless Presenter Clicker       Electronics      2025-04-05        409
+  BR008    Microwave 20L                    Breakroom        2025-04-05        409
+  SA005    Door Lock Digital                Safety           2025-04-05        409
+  FU008    Under-Desk Drawer Unit           Furniture        2025-04-08        406
+  PR014    Binding Comb 50pk A4             Printing         2025-04-08        406
+  EL010    Smart Power Strip                Electronics      2025-04-10        404
+  CL005    Vacuum Cleaner Bagless           Cleaning         2025-04-10        404
+  SA008    Hard Hat White                   Safety           2025-04-10        404
+  ST004    Peg Board 60x90cm                Storage          2025-04-10        404
+  MI007    Key Cabinet 30 Keys              Misc             2025-04-10        404
+  OF015    Tape Dispenser + 3 Rolls         Office           2025-04-12        402
+  AC006    Calligraphy Pen Set              Art              2025-04-12        402
+  OF003    Stapler Heavy Duty               Office           2025-04-14        400
+  FU007    Monitor Arm Dual                 Furniture        2025-04-15        399
+  SA001    First Aid Kit Large              Safety           2025-04-15        399
+  SH008    Void Fill Paper 250m             Shipping         2025-04-15        399
+  NW004    Powerline Adapter Kit            Networking       2025-04-15        399
+  MI003    Presentation Remote              Misc             2025-04-15        399
+  OF020    Paper Shredder Micro-Cut         Office           2025-04-17        397
+  EL002    Wireless Charging Pad            Electronics      2025-04-18        396
+  CL013    Broom & Dustpan Set              Cleaning         2025-04-18        396
+  PR009    All-in-One Printer               Printing         2025-04-18        396
+  SA012    Padlock Combination 50mm         Safety           2025-04-18        396
+  AC012    Modelling Clay 500g Set          Art              2025-04-18        396
+  HW006    Posture Corrector Brace          Health           2025-04-18        396
+  TH005    Spirit Level 60cm                Tools            2025-04-18        396
+  EL017    Thunderbolt 4 Dock               Electronics      2025-04-20        394
+  FU003    Bookshelf 5-Tier Oak             Furniture        2025-04-20        394
+  CL003    Mop & Bucket Set                 Cleaning         2025-04-20        394
+  ST002    Plastic Drawer Unit 6            Storage          2025-04-20        394
+  OF006    Label Maker Thermal              Office           2025-04-22        392
+  FU013    Whiteboard Easel Stand           Furniture        2025-04-22        392
+  BR013    Cutlery Set Stainless 24pc       Breakroom        2025-04-22        392
+  SA004    Security Camera HD               Safety           2025-04-22        392
+  SH005    Stretch Film Wrap 500m           Shipping         2025-04-22        392
+  TH002    Power Drill Cordless 18V         Tools            2025-04-22        392
+  OF010    File Folders Box 100             Office           2025-04-25        389
+  PR004    Photo Paper Glossy 100pk         Printing         2025-04-25        389
+  AC004    Canvas Board 30x40 5pk           Art              2025-04-25        389
+  HW005    Foam Roller 45cm                 Health           2025-04-25        389
+  EL013    Portable Power Bank 20000mAh     Electronics      2025-04-27        387
+  ST007    Under-Shelf Basket 2pk           Storage          2025-04-27        387
+  OF008    Ruler 30cm Stainless Steel       Office           2025-04-28        386
+  BR003    Coffee Maker 12-Cup              Breakroom        2025-04-28        386
+  SA007    Hi-Vis Vest XL                   Safety           2025-04-28        386
+  TA010    VESA Monitor Mount               Tech Acc         2025-04-28        386
+  NW002    Network Switch 8-Port            Networking       2025-04-28        386
+  MI010    Stamp Pad + Ink Refill           Misc             2025-04-28        386
+  EL007    27-inch Monitor IPS              Electronics      2025-04-30        384
+  FU010    Sofa 3-Seater Grey               Furniture        2025-04-30        384
+  CL014    Drain Unblocker 500ml            Cleaning         2025-04-30        384
+  PR013    Printer Paper A3 250 sheets      Printing         2025-04-30        384
+  AC008    Hot Glue Gun + 20 Sticks         Art              2025-04-30        384
+  TH004    Hammer Claw 16oz                 Tools            2025-04-30        384
+  EL006    Gaming Mouse 16000 DPI           Electronics      2025-05-01        383
+  FU006    Guest Chair Fabric               Furniture        2025-05-01        383
+  OF007    Correction Tape 5-Pack           Office           2025-05-02        382
+  PR015    Report Covers Clear 50pk         Printing         2025-05-02        382
+  HW003    Standing Desk Mat 90x60          Health           2025-05-02        382
+  OF014    Index Cards 200pk                Office           2025-05-03        381
+  BR011    Reusable Water Bottle 750ml      Breakroom        2025-05-03        381
+  AC005    Graphite Pencil Set 12           Art              2025-05-03        381
+  NW008    Keystone Jack RJ45 10pk          Networking       2025-05-03        381
+  CL015    Soap Dispenser Refill 5L         Cleaning         2025-05-04        380
+  TA012    Laptop Backpack 17-inch          Tech Acc         2025-05-04        380
+  ST006    Hanging Wall File Organiser      Storage          2025-05-04        380
+  EL018    Smart LED Strip 5m               Electronics      2025-05-05        379
+  FU014    Anti-Fatigue Mat 90x60           Furniture        2025-05-05        379
+  PR008    Laminating Pouches 100pk         Printing         2025-05-05        379
+  AC011    Origami Paper 500pk              Art              2025-05-05        379
+  NW001    WiFi 6 Router                    Networking       2025-05-05        379
+  MI004    Umbrella Compact                 Misc             2025-05-05        379
+  OF016    Ergonomic Mouse Pad              Office           2025-05-06        378
+  CL009    Floor Cleaner Concentrate 5L     Cleaning         2025-05-06        378
+  SA011    Anti-Slip Floor Tape 18m         Safety           2025-05-06        378
+  TA004    Tablet Stylus Active             Tech Acc         2025-05-06        378
+  ST001    Storage Boxes 30L 4pk            Storage          2025-05-06        378
+  OF004    Sticky Notes 12 Pads             Office           2025-05-07        377
+  BR014    Coffee Creamer 500g              Breakroom        2025-05-07        377
+  AC001    Watercolour Paint Set 24         Art              2025-05-07        377
+  TA009    Cable Management Sleeve 2m       Tech Acc         2025-05-07        377
+  TH007    Allen Key Set Metric 9pc         Tools            2025-05-07        377
+  MI008    Document Wallet A4 10pk          Misc             2025-05-07        377
+  EL009    Laptop Stand Aluminium           Electronics      2025-05-08        376
+  FU002    Height-Adjust Standing Desk      Furniture        2025-05-08        376
+  BR004    Sugar Sachets 500pk              Breakroom        2025-05-08        376
+  PR003    Laser Toner Cartridge            Printing         2025-05-08        376
+  SA003    Smoke Detector Wireless          Safety           2025-05-08        376
+  SH009    Mailing Tubes 10pk               Shipping         2025-05-08        376
+  HW007    Wrist Support Brace              Health           2025-05-08        376
+  OF013    Binder Clips Assorted 50pk       Office           2025-05-09        375
+  CL007    Air Freshener Spray 6pk          Cleaning         2025-05-09        375
+  AC007    Craft Scissors Set 3             Art              2025-05-09        375
+  TA008    Keyboard Cover Silicone          Tech Acc         2025-05-09        375
+  ST009    Magazine File Holder 6pk         Storage          2025-05-09        375
+  EL001    USB-C Hub 7-Port                 Electronics      2025-05-10        374
+  OF009    Scissors Professional            Office           2025-05-10        374
+  BR010    Instant Noodles 24pk             Breakroom        2025-05-10        374
+  PR002    Colour Ink Cartridge 3pk         Printing         2025-05-10        374
+  SH004    Padded Envelopes A4 25pk         Shipping         2025-05-10        374
+  HW001    Lumbar Support Cushion           Health           2025-05-10        374
+  NW005    WiFi Range Extender              Networking       2025-05-10        374
+  TH001    Screwdriver Set 30pc             Tools            2025-05-10        374
+  MI002    Lanyard 10pk Adjustable          Misc             2025-05-10        374
+  EL015    Smart Home Hub                   Electronics      2025-05-11        373
+  CL011    Glass Cleaner 750ml              Cleaning         2025-05-11        373
+  PR011    Envelopes C4 Box 250             Printing         2025-05-11        373
+  AC003    Acrylic Paint 20 Colours         Art              2025-05-11        373
+  TA007    USB Flash Drive 64GB             Tech Acc         2025-05-11        373
+  EL011    External SSD 1TB                 Electronics      2025-05-12        372
+  FU001    Ergonomic Office Chair           Furniture        2025-05-12        372
+  BR012    Paper Plates 100pk               Breakroom        2025-05-12        372
+  SA006    Safety Goggles 6pk               Safety           2025-05-12        372
+  SH010    Shipping Labels A4 100pk         Shipping         2025-05-12        372
+  HW009    Vitamin D3 Supplements 90        Health           2025-05-12        372
+  ST003    Shelf Brackets 4pk Steel         Storage          2025-05-12        372
+  TH006    Utility Knife + 10 Blades        Tools            2025-05-12        372
+  MI005    Whiteboard Cleaner 500ml         Misc             2025-05-12        372
+  EL020    Screen Cleaning Kit              Electronics      2025-05-13        371
+  CL010    Toilet Cleaner Gel 6pk           Cleaning         2025-05-13        371
+  BR015    Fruit Snack Bars 24pk            Breakroom        2025-05-13        371
+  PR005    Label Tape Brother 12mm          Printing         2025-05-13        371
+  AC010    Coloured Card A4 100 Sheets      Art              2025-05-13        371
+  TA003    Phone Stand Adjustable           Tech Acc         2025-05-13        371
+  HW002    Blue Light Glasses               Health           2025-05-13        371
+  TH010    Extension Lead 10m 4-Way         Tools            2025-05-13        371
+  MI009    Lever Arch Files 10pk            Misc             2025-05-13        371
+  EL003    Bluetooth Earbuds Pro            Electronics      2025-05-14        370
+  OF012    Dry-Erase Markers 8pk            Office           2025-05-14        370
+  CL002    Microfibre Cloths 20pk           Cleaning         2025-05-14        370
+  BR005    UHT Milk 1L 12pk                 Breakroom        2025-05-14        370
+  PR012    Envelopes DL Box 500             Printing         2025-05-14        370
+  AC002    Sketch Pad A3 50 sheets          Art              2025-05-14        370
+  TA002    Laptop Sleeve 15.6-inch          Tech Acc         2025-05-14        370
+  NW006    USB WiFi Adapter 1200Mbps        Networking       2025-05-14        370
+  MI001    Name Badge Holders 50pk          Misc             2025-05-14        370
+  EL005    Mechanical Keyboard RGB          Electronics      2025-05-15        369
+  OF002    A4 Copy Paper 500 sheets         Office           2025-05-15        369
+  OF018    Highlighters Pastel 6pk          Office           2025-05-15        369
+  CL006    Bin Liners 120L 50pk             Cleaning         2025-05-15        369
+  BR002    Assorted Tea Bags 100pk          Breakroom        2025-05-15        369
+  PR001    Inkjet Ink Cartridge Black       Printing         2025-05-15        369
+  SH001    Bubble Wrap Roll 50m             Shipping         2025-05-15        369
+  TA006    Webcam Cover Privacy 3pk         Tech Acc         2025-05-15        369
+  TA011    Surge Protector 6-Way            Tech Acc         2025-05-15        369
+  HW008    Noise Cancelling Earplugs 50pk   Health           2025-05-15        369
+  ST005    Cable Ties 200pk Assorted        Storage          2025-05-15        369
+  TH003    Measuring Tape 5m                Tools            2025-05-15        369
+  EL008    HDMI 2.1 Cable 2m                Electronics      2025-05-16        368
+  OF001    Premium Ballpoint Pens 12pk      Office           2025-05-16        368
+  CL004    Hand Sanitiser 500ml 6pk         Cleaning         2025-05-16        368
+  CL012    Latex Gloves M 100pk             Cleaning         2025-05-16        368
+  BR009    Biscuit Selection Box 400g       Breakroom        2025-05-16        368
+  AC009    Washi Tape Set 20 Rolls          Art              2025-05-16        368
+  SH006    Fragile Stickers Roll 500        Shipping         2025-05-16        368
+  TA001    Screen Protector 15-inch         Tech Acc         2025-05-16        368
+  HW004    Resistance Bands Set 5           Health           2025-05-16        368
+  NW003    CAT6 Ethernet Cable 10m          Networking       2025-05-16        368
+  ST008    Stackable Tray A4                Storage          2025-05-16        368
+  TH009    Wall Anchors + Screws 100pk      Tools            2025-05-16        368
+  EL012    Noise-Cancelling Headphones      Electronics      2025-05-17        367
+  CL001    Disinfectant Spray 2L            Cleaning         2025-05-17        367
+  BR001    Coffee Beans Arabica 1kg         Breakroom        2025-05-17        367
+  BR006    Disposable Cups 100pk            Breakroom        2025-05-17        367
+  PR006    Thermal Label Roll 4x6           Printing         2025-05-17        367
+  SH003    Packing Tape 50m 6 Rolls         Shipping         2025-05-17        367
+  TA005    Micro SD Card 128GB              Tech Acc         2025-05-17        367
+  HW010    Hand Cream 100ml                 Health           2025-05-17        367
+  EL016    USB-A to USB-C Cable 3-Pack      Electronics      2025-05-18        366
+  CL008    Paper Towels 12 Rolls            Cleaning         2025-05-18        366
+  SH002    Cardboard Boxes 30x20x15 20pk    Shipping         2025-05-18        366
+────────────────────────────────────────────────────────────────────────
+  196 stale products found (100.0% of catalogue).  Tied-up cost value: $86,783.10
+────────────────────────────────────────────────────────────────────────
+
+════════════════════════════════════════════════════════════════════════
+  Q4  │  TOTAL INVENTORY VALUE BY CATEGORY (cost × stock_qty)
+════════════════════════════════════════════════════════════════════════
+  This is the capital currently tied up in each category.
+
+  Category         Inv. Value      Units   % Total Visual              
+  ····································································
+  Electronics      $21,700.00      1,406     25.0% ████████████        
+  Furniture        $13,806.00        166     15.9% ███████             
+  Office            $6,640.80      1,736      7.7% ███                 
+  Printing          $5,604.50        788      6.5% ███                 
+  Cleaning          $4,724.40        745      5.4% ██                  
+  Tech Acc          $4,177.50        850      4.8% ██                  
+  Networking        $4,166.50        295      4.8% ██                  
+  Safety            $4,015.00        361      4.6% ██                  
+  Breakroom         $3,990.00        767      4.6% ██                  
+  Art               $3,731.00        708      4.3% ██                  
+  Storage           $3,624.00        552      4.2% ██                  
+  Health            $3,314.00        505      3.8% █                   
+  Tools             $2,508.00        373      2.9% █                   
+  Shipping          $2,459.00        541      2.8% █                   
+  Misc              $2,322.40        465      2.7% █                   
+  ────────────────────────────────────────────────────────────
+  TOTAL            $86,783.10     10,258    100.0%                     
+────────────────────────────────────────────────────────────────────────
+  Grand total inventory cost: $86,783.10  │  10,258 units across 15 categories.
+────────────────────────────────────────────────────────────────────────
+
+════════════════════════════════════════════════════════════════════════
+  Q5  │  TOP-10 PRODUCTS BY PROJECTED REVENUE (price × stock_qty)
+════════════════════════════════════════════════════════════════════════
+  Sell every unit on the shelf – this is the gross revenue potential.
+
+  Rank SKU      Product Name                     Category          Price      Qty  Proj. Revenue
+  ····································································
+  #1   EL001    USB-C Hub 7-Port                 Electronics      $49.99      120      $5,998.80
+  #2   FU001    Ergonomic Office Chair           Furniture       $349.99       15      $5,249.85
+  #3   EL003    Bluetooth Earbuds Pro            Electronics      $89.99       55      $4,949.45
+  #4   EL013    Portable Power Bank 20000mAh     Electronics      $54.99       90      $4,949.10
+  #5   EL016    USB-A to USB-C Cable 3-Pack      Electronics      $12.99      350      $4,546.50
+  #6   EL005    Mechanical Keyboard RGB          Electronics      $99.99       45      $4,499.55
+  #7   EL012    Noise-Cancelling Headphones      Electronics     $199.99       22      $4,399.78
+  #8   EL006    Gaming Mouse 16000 DPI           Electronics      $69.99       60      $4,199.40
+  #9   EL007    27-inch Monitor IPS              Electronics     $329.99       11      $3,629.89
+  #10  EL011    External SSD 1TB                 Electronics     $109.99       33      $3,629.67
+────────────────────────────────────────────────────────────────────────
+  Top-10 projected revenue: $46,051.99  (19.0% of total $242,195.92)
+────────────────────────────────────────────────────────────────────────
+
+════════════════════════════════════════════════════════════════════════
+  END OF REPORT
+════════════════════════════════════════════════════════════════════════
+
