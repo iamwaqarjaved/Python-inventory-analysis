@@ -24,4 +24,3 @@ python3 analyzer.py
 ## Requirements
 
 Python 3.8 or later. No third-party libraries needed.
-EOF
